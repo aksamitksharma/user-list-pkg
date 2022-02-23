@@ -1,0 +1,19 @@
+{
+    "name": "aksam/contact",
+    "type": "project",
+    "description": "The addition.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aksam\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aksamitksharma",
+            "email": "aksamitksharma@gmail.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev"
+}
